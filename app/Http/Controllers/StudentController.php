@@ -94,6 +94,8 @@ class StudentController extends Controller
           $student->student_rollno = $request->get('student_rollno');
           $student->student_marks = $request->get('student_marks');
           $student->save();
+
+          
     
           return redirect('/students')->with('success', 'Student has been updated');
     }

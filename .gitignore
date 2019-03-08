@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> First commit
+>>>>>>> af51a8442f51975f4ba19184c860d9442da7ea20
 vendor/
 node_modules/
 npm-debug.log
@@ -19,4 +26,11 @@ Homestead.json
 
 # Rocketeer PHP task runner and deployment package. https://github.com/rocketeers/rocketeer
 .rocketeer/
+<<<<<<< HEAD
 
+=======
+<<<<<<< HEAD
+=======
+
+>>>>>>> First commit
+>>>>>>> af51a8442f51975f4ba19184c860d9442da7ea20
